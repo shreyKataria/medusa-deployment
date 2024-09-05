@@ -50,3 +50,5 @@ const loaders = require("@medusajs/medusa/dist/loaders/index").default;
 })();
 
 // deployment
+
+console.log("hello");
